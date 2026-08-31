@@ -87,14 +87,3 @@ My recruiting background has taught me how to understand business problems, iden
 ## ✨ Motto
 
 > **"Great decisions begin with great data — and meaningful careers begin with continuous learning."**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnukosanam&style=for-the-badge&color=0A66C2" />
-</p>
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishnukosanam/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
