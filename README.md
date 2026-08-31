@@ -60,31 +60,6 @@ My recruiting background has taught me how to understand business problems, iden
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnukosanam&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukosanam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishnukosanam&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-> *(Pin your best repositories on GitHub and replace these with actual links.)*
-
-| Project | Description |
-|---------|-------------|
-| 📊 HR Analytics Dashboard | Employee attrition & hiring insights using Python + SQL |
-| 📈 Sales Data Analysis | Exploratory data analysis with Excel & Pandas |
-| 🔗 REST API Data Pipeline | Fetching and transforming API data using Python |
-| 🧹 SQL Case Study | Business queries and reporting with SQL Server |
-
----
 
 ## 🎯 2026 Goals
 
