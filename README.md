@@ -17,12 +17,12 @@
 <br/>
 📌 About Me
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="320"/>
-🎓 Aspiring Full Stack Developer, currently a Fresher actively seeking my first opportunity in the tech industry
-💻 Passionate about building clean, responsive, and scalable web applications using the MERN Stack
-🌱 Constantly leveling up — deep in System Design, DevOps, and Cloud (AWS) fundamentals
+🎓 Aspiring Data Analyst and Python Developer, currently a Fresher actively seeking my first opportunity in the tech industry
+💻 Passionate about building clean, responsive, and scalable web applications
+🌱 Constantly leveling up — deep in System Design, and Cloud (AWS) fundamentals
 🤝 Love collaborating on open-source and real-world projects that solve actual problems
 ⚡ Fun fact: I believe good code is written twice — once to make it work, once to make it right
-📍 Based in India | Open to Remote / Hybrid roles
+📍 Based in India | Open to Remote / Hybrid / On-site roles
 <br clear="right"/>
 <br/>
 🛠️ Tech Stack
